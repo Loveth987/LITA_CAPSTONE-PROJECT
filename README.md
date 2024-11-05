@@ -1,3 +1,5 @@
+![Screenshot 2024-SALES DATA PIVOT](https://github.com/user-attachments/assets/61fff321-a489-42cd-9ade-799a9937218c)
+![Screenshot SALES DA](https://github.com/user-attachments/assets/b57bd50c-775b-477f-ba39-13a7d3b67cf5)
 # LITA_CAPSTONE-PROJECT
 Show casing knowledge gained during my training  
 
