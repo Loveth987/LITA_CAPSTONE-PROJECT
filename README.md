@@ -15,3 +15,10 @@ Product Name: description of the product (e.g., "jackets", "Socks","Skirt",etc).
 Quantity Sold:	The number of units sold during the transaction.
 
 Unit Price:	Price per unit of the product
+
+## Data Source
+Lita_capstone Project data
+
+## Microsoft Excel
+It used for cleaning and preparation of Exporatory Data Analysis
+(Download Here) (https://www.microsoft )
